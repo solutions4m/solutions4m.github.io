@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Allgemein &#8211; Test</title>
+	<atom:link href="https://solutions4m.github.io/index.php/category/allgemein/feed/" rel="self" type="application/rss+xml" />
+	<link>https://solutions4m.github.io/</link>
+	<description>Eine weitere WordPress-Website</description>
+	<lastBuildDate>Fri, 25 Aug 2017 16:59:22 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+	<item>
+		<title>Hallo Welt!</title>
+		<link>https://solutions4m.github.io/index.php/2017/08/25/hallo-welt/</link>
+		<comments>https://solutions4m.github.io/index.php/2017/08/25/hallo-welt/#comments</comments>
+		<pubDate>Fri, 25 Aug 2017 16:59:22 +0000</pubDate>
+		<dc:creator><![CDATA[ich]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">https://solutions4m.github.io/?p=1</guid>
+		<description><![CDATA[<p>Willkommen zur deutschen Version von WordPress. Dies ist der erste Beitrag. Du kannst ihn bearbeiten oder löschen. Und dann starte mit dem Schreiben!</p>
+<p>Der Beitrag <a rel="nofollow" href="https://solutions4m.github.io/index.php/2017/08/25/hallo-welt/">Hallo Welt!</a> erschien zuerst auf <a rel="nofollow" href="https://solutions4m.github.io/">Test</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Willkommen zur deutschen Version von WordPress. Dies ist der erste Beitrag. Du kannst ihn bearbeiten oder löschen. Und dann starte mit dem Schreiben!</p>
+<p>Der Beitrag <a rel="nofollow" href="https://solutions4m.github.io/index.php/2017/08/25/hallo-welt/">Hallo Welt!</a> erschien zuerst auf <a rel="nofollow" href="https://solutions4m.github.io/">Test</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://solutions4m.github.io/index.php/2017/08/25/hallo-welt/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
